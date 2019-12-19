@@ -3,7 +3,8 @@ package training.simplecollections.treeset;
 import java.util.*;
 
 public class SimpleTreeSet<T> implements java.util.NavigableSet<T> {
-
+    // I do not understand difference from HashSet(In Add) (For my opinion it is the most important)
+    // I will implement this after next lesson
     @Override
     public T lower(T t) {
         return null;
