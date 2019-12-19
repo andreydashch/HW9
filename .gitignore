@@ -1,2 +1,5 @@
 # Project exclude paths
 /target/
+!/log/
+!/.idea/
+!/HW9.iml
